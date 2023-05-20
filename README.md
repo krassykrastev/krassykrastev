@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krassy Krastev. I am currently based in Barcelona (Spain). 
 - Previously, I worked in Sofia (Bulgaria) and Long Island (New York, USA)
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and I have already completed Python Basics
 - 🌱 I’m currently learning Python Fundamentals
 - 📫 You can reach me at krassykrastev@yahoo.com
 
