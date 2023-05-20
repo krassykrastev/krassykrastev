@@ -1,7 +1,10 @@
- 👋 Hi, I’m Krassy Krastev. I currently live in Barcelona (Spain). Previously I worked in Sofia (Bulgaria) and Long Island (New York, USA).
- 👀 I’m interested in Python
- 🌱 I’m currently learning Python Fundamentals course in SofUni
- 📫 You can reach me at krassykrastev@yahoo.com
+👋 Hi, I’m Krassy Krastev. I currently live in Barcelona (Spain). Previously I worked in Sofia (Bulgaria) and Long Island (New York, USA).
+ 
+👀 I’m interested in Python
+
+🌱 I’m currently learning Python Fundamentals course in SofUni
+
+📫 You can reach me at krassykrastev@yahoo.com
  
 
 <!---
